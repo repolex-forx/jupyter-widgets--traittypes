@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-widgets",
+  "repo": "traittypes",
+  "versions": [
+    {
+      "commit": "9a1db7c182bf2884110958303bc3f54f9ed8414f",
+      "tag": "0.2.3",
+      "parsed_at": "2026-10-15T15:51:56.442040+00:00"
+    }
+  ]
+}
