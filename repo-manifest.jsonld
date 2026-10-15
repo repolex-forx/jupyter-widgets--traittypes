@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jupyter-widgets/traittypes/commit/9a1db7c182bf2884110958303bc3f54f9ed8414f",
       "git:hexsha": "9a1db7c182bf2884110958303bc3f54f9ed8414f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.3",
+      "repolex:parsedAt": "2026-10-15T15:51:56.441618+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter-widgets/traittypes/commit/7e5cf9859abfe266f8ce583a880ef0603d5ded3d",
